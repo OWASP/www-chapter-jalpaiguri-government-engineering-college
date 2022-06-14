@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Chinmoy Ghosh](mailto:chinmoy.ghosh@owasp.org)
+* [Syed Modassir Ali](mailto:syed.modassirali@owasp.org)
