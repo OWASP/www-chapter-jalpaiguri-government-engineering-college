@@ -4,5 +4,4 @@
 ### Social Links
 * [Meetup](#)
 * [Instagram](https://www.instagram.com/owaspjgec/)
-* [Linkedin](#)
-* [Twitter](#)
+* [Twitter](https://twitter.com/owaspjgec)
