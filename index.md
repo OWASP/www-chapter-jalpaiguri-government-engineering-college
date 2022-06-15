@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Jalpaiguri Government Engineering College
-tags: example-tag
+tags: JGEC, Owaspjgec
 region: Asia
 meetup-group:
 
