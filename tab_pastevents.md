@@ -9,4 +9,4 @@ meetup-group:
 ---
 
 # Past Events
-All the past event conents, slides and recordings are accessible here.
+All the past event contents, slides and recordings are accessible here.
