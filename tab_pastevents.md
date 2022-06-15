@@ -3,9 +3,10 @@ title: pastevents
 displaytext: Past Events 
 layout:  null
 tab: true
-order: 1
+order: 3
 tags: JGEC
 meetup-group: 
 ---
 
-# Past Event
+# Past Events
+All the past event conents, slides and recordings are accessible here.
