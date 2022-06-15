@@ -3,7 +3,7 @@ title: Meetings
 layout:  null
 tab: true
 order: 1
-tags: OWASP-JGEC-Meetup
+tags: JGEC
 meetup-group: 
 ---
 
