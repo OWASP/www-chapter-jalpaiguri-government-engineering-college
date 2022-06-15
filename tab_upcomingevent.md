@@ -3,7 +3,7 @@ title: upcomingevent
 displaytext: Upcoming Event 
 layout:  null
 tab: true
-order: 1
+order: 2
 tags: JGEC
 meetup-group: 
 ---
