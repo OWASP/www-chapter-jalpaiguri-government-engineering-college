@@ -9,7 +9,7 @@ postal-code: 735102
 
 ---
 
-![OWASP JGEC Logo](assets/images/logo/OWASPjgec.png)
+![OWASP JGEC Logo](assets/images/logo/OWASPjgec.jpg)
 
 ## Welcome
 OWASP Jalpaiguri Government Engineering College - Jalpaiguri was founded in 14th June, 2022. We Organise Meetups, Webinar, CTFs and Conferences. All these events are open, anyone who has interest can participate. We actively create awareness and share knowledge on Cyber Security.   
