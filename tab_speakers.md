@@ -33,7 +33,6 @@ Please follow the below structure when you mail us. We will get back to you as s
     - Presentation time required
 - Date and Time you want to talk
 - Outcomes of the talk/workshop
-Kindly review our [speaker agreement](/www-policy/legal/speaker-agreement) before proceeding. 
 
 **Note: If you have LinkedIn profile please attach along with mail.**
 
