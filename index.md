@@ -23,7 +23,9 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Call For Speakers
 
-If you are willing to give a talk in our chapter, please feel free to drop an email to one of the student chapter leaders. We will be happy to have you on our list.
+Would you like to speak on the upcoming OWASP JGEC meetup? [Contact Us](mailto:syed.modassirali@owasp.org). We will be happy to have you on our list.
+
+**Email Format :**
 
 Please follow the below structure when you mail us. We will get back to you as soon as possible. 
 
@@ -31,7 +33,20 @@ Please follow the below structure when you mail us. We will get back to you as s
 
 <b> Body: </b>
 
-Your Name, Current Designation (If Employed), Topic. If you have LinkedIn profile please attach along with mail 
+- Speaker name
+- Job Role
+- Company / Organization
+- Country
+- Email ID
+- Contact Number
+- Speaker Profile
+- Presentation Details
+    - Name / Title of the Presentation
+    - Abstract of the presentation
+    - Presentation time required
+- Date and Time you want to talk
+- Outcomes of the talk/workshop
+Kindly review our [speaker agreement](/www-policy/legal/speaker-agreement) before proceeding. If you have LinkedIn profile please attach along with mail.
 
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
