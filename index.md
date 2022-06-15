@@ -21,34 +21,6 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
-## Call For Speakers
-
-Would you like to speak on the upcoming OWASP JGEC meetup? [Contact Us](mailto:syed.modassirali@owasp.org). We will be happy to have you on our list.
-
-**Email Format :**
-
-Please follow the below structure when you mail us. We will get back to you as soon as possible. 
-
-<b> Subject: </b> Call For Speakers - (Your Name)
-
-<b> Body: </b>
-
-- Speaker name
-- Job Role
-- Company / Organization
-- Country
-- Email ID
-- Contact Number
-- Speaker Profile
-- Presentation Details
-    - Name / Title of the Presentation
-    - Abstract of the presentation
-    - Presentation time required
-- Date and Time you want to talk
-- Outcomes of the talk/workshop
-Kindly review our [speaker agreement](/www-policy/legal/speaker-agreement) before proceeding. If you have LinkedIn profile please attach along with mail.
-
-
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
