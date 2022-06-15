@@ -5,6 +5,7 @@ title: OWASP Jalpaiguri Government Engineering College
 tags: JGEC, Owaspjgec
 region: Asia
 meetup-group:
+postal-code: 735102
 
 ---
 
