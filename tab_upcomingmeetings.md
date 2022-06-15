@@ -1,5 +1,6 @@
 ---
-title: Upcoming Meetings
+title: upcomingmeetings
+displaytext: Upcoming Event 
 layout:  null
 tab: true
 order: 1
