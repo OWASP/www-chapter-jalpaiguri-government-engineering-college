@@ -11,7 +11,7 @@ meetup-group: owasp-jalpaiguri-government-engineering-college-chapter
 # Meetings
 
 The OWASP-JGEC chapter meets at least quarterly. Please see our 
-[Meetup page](https://www.meetup.com/#) for the latest information.
+[Meetup page](https://www.meetup.com/owasp-jalpaiguri-government-engineering-college-chapter) for the latest information.
 
 ## Call for talks
 
