@@ -5,7 +5,7 @@ layout:  null
 tab: true
 order: 1
 tags: JGEC
-meetup-group: 
+meetup-group: owasp-jalpaiguri-government-engineering-college-chapter
 ---
 
 ## Call For Speakers
