@@ -1,0 +1,25 @@
+leaders:
+  - name: Prof. Chinmoy Ghosh
+    email: chinmoy.ghosh@owasp.org
+  - name: Syed Modassir Ali
+    email: syed.modassirali@owasp.org
+    github: gr33nm0nk2802
+location:
+  country: India
+  country_code: IN
+  region: West Bengal
+  city: Jalpaiguri District
+  postal_code: '735102'
+  latitude: 26.5241586
+  longitude: 88.7197513
+meetup_group: owasp-jalpaiguri-government-engineering-college-chapter
+name: OWASP Jalpaiguri Government Engineering College
+repositories:
+  - name: www-chapter-jalpaiguri-government-engineering-college
+    url: https://github.com/OWASP/www-chapter-jalpaiguri-government-engineering-college
+    description: OWASP Foundation Web Repository
+tags:
+  - JGEC
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-jalpaiguri-government-engineering-college
